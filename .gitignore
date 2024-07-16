@@ -118,3 +118,5 @@ venv.bak/
 .DS_Store
 data/.DS_Store
 src/.DS_Store
+src/.DS_Store
+data/.DS_Store
