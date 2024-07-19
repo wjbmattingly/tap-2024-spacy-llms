@@ -1,0 +1,17 @@
+- text: I'm buying ice cream.
+  lemmas:
+    - 'I': 'I'
+    - "'m": 'be'
+    - 'buying': 'buy'
+    - 'ice': 'ice'
+    - 'cream': 'cream'
+    - '.': '.'
+
+- text: I've watered the plants.
+  lemmas:
+    - 'I': 'I'
+    - "'ve": 'have'
+    - 'watered': 'water'
+    - 'the': 'the'
+    - 'plants': 'plant'
+    - '.': '.'

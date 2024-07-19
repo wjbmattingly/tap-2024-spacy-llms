@@ -1,0 +1,14 @@
+- text: "Program Hodie Christus Natus Est Livia Meridius Sung in Latin 1734 -1802 Today Christ is born Today the Saviour has appeared On earth the angels sing the archangels rejoice and the righteous are glad saying `` Glory to God in the highest Noell Alleluia/ ''"
+  entities:
+    COMPOSER:
+      - Livia Meridius
+
+- text: "Rorate Coeli Marcus Aurelius Veritus Sung in Latin 1680 -1745 Pour out dew from above you heavens and let the clouds rain down the Just One Let the earth open and bring forth a saviour Show us your mercy O Lord and grant us your salvation Come O Lord and do not delay Alleluia! Alleluia!"
+  entities:
+    COMPOSER:
+      - Marcus Aurelius Veritus
+
+- text: "Ascendit Deus Lucia Aquila Sung in Latin 1605 -1678 Alleluia! God has ascended in jubilation and Christ the Lord with the sound of the trumpets Alleluia/"
+  entities:
+    COMPOSER:
+      - Lucia Aquila

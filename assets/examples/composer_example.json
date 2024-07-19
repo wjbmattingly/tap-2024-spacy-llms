@@ -1,0 +1,36 @@
+[
+    {
+      "text": "Program Hodie Christus Natus Est Jan Pieterszoon Sweelinck Sung in Latin 1562 -1621 Today Christ is born Today the Saviour has appeared On earth the angels sing the archangels rejoice and the righteous are glad saying `` Glory to God in the highest Noell Alleluia/ ''",
+      "spans": [
+        {
+          "text": "Jan Pieterszoon Sweelinck",
+          "is_entity": true,
+          "label": "COMPOSER",
+          "reason": "name of the composer for 'Hodie Christus Natus Est'"
+        }
+      ]
+    },
+    {
+      "text": "Rorate Coeli Giovanni Pierluigi da Palestrina Sung in Latin 1525 -1594 Pour out dew from above you heavens and let the clouds rain down the Just One Let the earth open and bring forth a saviour Show us your mercy O Lord and grant us your salvation Come O Lord and do not delay Alleluia ! Alleluia!",
+      "spans": [
+        {
+          "text": "Giovanni Pierluigi da Palestrina",
+          "is_entity": true,
+          "label": "COMPOSER",
+          "reason": "name of the composer for 'Rorate Coeli'"
+        }
+      ]
+    },
+    {
+      "text": "Ascendit Deus William Byrd Sung in Latin 1543 -1623 Alleluia ! God has ascended in jubilation and Christ the Lord with the sound of the trumpets Alleluia !",
+      "spans": [
+        {
+          "text": "William Byrd",
+          "is_entity": true,
+          "label": "COMPOSER",
+          "reason": "name of the composer for 'Ascendit Deus'"
+        }
+      ]
+    }
+  ]
+  

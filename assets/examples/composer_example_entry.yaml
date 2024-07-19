@@ -1,0 +1,24 @@
+- text: "On a clear night, Sonata No. 14 in C-sharp Minor Op. 27 No. 2 Beethoven Composed 1801 - 1802 as the moonlight dances on the sea. In dreams, the music softly plays."
+  entities:
+    FULL_ENTRY:
+      - Sonata No. 14 in C-sharp Minor Op. 27 No. 2 Beethoven Composed 1801 - 1802
+
+- text: "Beneath the starlit sky, Symphony No. 5 in C Minor Op. 67 Beethoven Performed in Vienna 1808 - 1820, where hearts were wild and free. The echoes of the night are calling."
+  entities:
+    FULL_ENTRY:
+      - Symphony No. 5 in C Minor Op. 67 Beethoven Performed in Vienna 1808 - 1820
+
+- text: "Whispers in the wind, The Marriage of Figaro Mozart Premiered in Vienna 1786 - 1790, a tale of love and intrigue. Let the music take you away."
+  entities:
+    FULL_ENTRY:
+      - The Marriage of Figaro Mozart Premiered in Vienna 1786 - 1790
+
+- text: "In the quiet of dawn, Four Seasons Vivaldi Composed 1723 - 1725, as the flowers bloom and the seasons change. Feel the rhythm of nature's embrace."
+  entities:
+    FULL_ENTRY:
+      - Four Seasons Vivaldi Composed 1723 - 1725
+
+- text: "As the shadows fall, Toccata and Fugue in D Minor Bach Published 1717 - 1721, the night is alive with melodies. Let the music sweep you away."
+  entities:
+    FULL_ENTRY:
+      - Toccata and Fugue in D Minor Bach Published 1717 - 1721
